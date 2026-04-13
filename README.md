@@ -59,4 +59,4 @@
 
 <p align="left">
     <img src="https://img.shields.io/badge/Roblox-check_profile-000000?style=for-the-badge&logo=roblox&logoColor=white">
-    <img src="https://img.shields.io/badge/Roblox-check_profile-000000?style=for-the-badge&logo=roblox&logoColor=white">
+    <img src="https://img.shields.io/badge/Roblox-check_profile-000000?style=for-the-badge&logo=roblox&logoColor=white" width="70">
