@@ -1,12 +1,12 @@
 <h1 align="center">
-  ✦ hey, i'm YOUR_NAME ✦
+  welcome to my profile! :D 
 </h1>
 
 <p align="center">
-  i make stuff, break stuff, then fix it again 💻<br>
-  roblox dev • scripting • random ideas at 2am<br><br>
+  i like coding things and messing around with computers<br>
+  im a 14 year old guy who uh yeah thats me<br><br>
 
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250">
+  <img src="https://c.tenor.com/-bpd_jlbvLQAAAAd/tenor.gif" width="250">
 </p>
 
 ---
@@ -28,13 +28,6 @@
 </p>
 
 ---
-
-<h2 align="center">📊 stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&hide_border=true&background=00000000" height="150">
-</p>
 
 ---
 
