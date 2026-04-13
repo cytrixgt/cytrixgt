@@ -11,10 +11,10 @@
 
 ---
 
-<h2 align="center">⚙️ what i use</h2>
+<h2 align="center">languages i know or are familiar with :D</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,js,python,html,css,nodejs" />
+  <img src="https://skillicons.dev/icons?i=c#,lua" />
 </p>
 
 ---
