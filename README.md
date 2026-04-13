@@ -39,15 +39,18 @@
   <a href="https://discord.gg/https://discord.gg/PDpTdjq7sV">
     <img src="https://img.shields.io/badge/Discord-join_server-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-  
+
+  <p align="center">
   <a href="https://youtube.com/@realcytrix">
     <img src="https://img.shields.io/badge/YouTube-watch_red-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
-  
+
+  <p align="center">
   <a href="https://www.roblox.com/users/2255438845/profile">
     <img src="https://img.shields.io/badge/Roblox-check_profile-000000?style=for-the-badge&logo=roblox&logoColor=white">
   </a>
-  
+
+  <p align="center">
   <a href="https://steamcommunity.com/id/cytrixgt">
     <img src="https://img.shields.io/badge/Steam-view_profile-171A21?style=for-the-badge&logo=steam&logoColor=white">
   </a>
