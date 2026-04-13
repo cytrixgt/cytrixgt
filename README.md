@@ -57,6 +57,8 @@
 
 <h2 align="center">random gifs i have loll</h2>
 
+i usually add more when im bored >:3
+
 <p align="center">
     <img src="https://c.tenor.com/lJLXce-m_7IAAAAd/tenor.gif" height="100">
     <img src="https://c.tenor.com/6TNGlpE5sKYAAAAd/tenor.gif" height="100">
