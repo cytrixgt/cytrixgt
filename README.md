@@ -4,8 +4,8 @@
 
 <p align="center">
   i like coding things and messing around with computers<br>
-  im a 14 year old guy who uh yeah thats me<br><br>
-  feel free to check out some of my repositories :D
+  im a 14 year old guy who uh yeah thats me<br>
+  feel free to check out some of my repositories :D<br>
 
   <img src="https://c.tenor.com/a4oMmpcZT_AAAAAC/tenor.gif" width="250">
 </p>
