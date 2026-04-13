@@ -6,7 +6,7 @@
   i like coding things and messing around with computers<br>
   im a 14 year old guy who uh yeah thats me<br><br>
 
-  <img src="https://c.tenor.com/-bpd_jlbvLQAAAAd/tenor.gif" width="100">
+  <img src="https://c.tenor.com/a4oMmpcZT_AAAAAC/tenor.gif" width="100">
 </p>
 
 ---
