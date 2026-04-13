@@ -23,7 +23,7 @@
 
 <p align="center">
   <img src="https://media.tenor.com/oqArYHLhqq0AAAAi/lamb-dance-cult-of-the-lamb.gif" width="20"> my fav game is cult of the lamb <img src="https://media.tenor.com/oqArYHLhqq0AAAAi/lamb-dance-cult-of-the-lamb.gif" width="20"><br><img src="https://media.tenor.com/v59lGhMtJJcAAAAj/uzi-murder-drones.gif" width="20">
-  i like tadc, hh, hb, and murder drones<br> 
+  i like tadc, hh, hb, and murder drones <img src="https://media.tenor.com/P8OAcquQjigAAAAj/n-n-murder-drones.gif" width="20"><br> 
   my favorite animal is cats and i am a furry creature<br>
 </p>
 
