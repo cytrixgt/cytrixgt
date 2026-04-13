@@ -22,7 +22,7 @@
 <h2 align="center">🧠 about me</h2>
 
 <p align="center">
-  <img src="emojis/star.gif" width="20"> my fav game is cult of the lamb<br>
+  <img src="https://c.tenor.com/x1dYnqeehLAAAAAC/tenor.gif" width="20"> my fav game is cult of the lamb<br>
   i like tadc, hh, hb, and murder drones<br> 
   my favorite animal is cats and i am a furry creature<br>
 </p>
