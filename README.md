@@ -38,16 +38,3 @@
 </p>
 
 ---
-
-<h2 align="center">🐾 silly zone</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" height="100">
-  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" height="100">
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" height="100">
-  <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" height="100">
-</p>
-
-<p align="center">
-  <i>open a pr and add more chaos 😈</i>
-</p>
