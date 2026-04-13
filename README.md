@@ -1,88 +1,67 @@
-<h1 align="center"><img src="https://github.com/iiDk-the-actual/iiDk-the-actual/blob/main/byebye.gif?raw=true" width="40%"><br>hiya!</h1>
-<p align="center">i am iidk, or crimson, or grayson or whatever<br>i am 15 years old and i program for fun <i>(and money? please donate to me)</i><br><br>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>  
-</a>  
-<a href="https://www.java.com" target="_blank" rel="noreferrer">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  
-</a>  
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  
-</a>  
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  
-</a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
-</a>  
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>  
-</a>  
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>  
-</a>  
-<a href="https://www.python.org" target="_blank" rel="noreferrer">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
-</a>  
-<br><br>
-character in pfp: ichsan. https://www.instagram.com/ichisansfw/<br>
-services i've been falsely banned from: <b>7</b><br>
-favorite game: <a href="https://store.steampowered.com/app/1177980/Little_Kitty_Big_City/">little kitty big city<br><br><img src="https://github.com/iiDk-the-actual/iiDk-the-actual/blob/main/lkbc.jpg?raw=true" width="20%"></a></p>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/yourgifhere.gif" width="40%"><br>
+  hey there 👋
+</h1>
+
+<p align="center">
+  i'm [your name / username]<br>
+  i'm [your age] and i code for fun (and maybe money 👀)<br><br>
+
+  <!-- languages -->
+  <a href="https://www.w3schools.com/cs/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  </a>
+
+  <br><br>
+
+  favorite game: <a href="#">your game here</a><br>
+  random fact: something funny about you<br><br>
+
+  <img src="https://media.giphy.com/media/anothergif.gif" width="20%">
+</p>
 
 ---
 
 <details>
-  <summary>github stats</summary>
-<p align="center">  
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=iiDk-the-actual" alt="GitHub Streak" /></a>
+  <summary>📊 github stats</summary>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME" />
 </p>
+
 </details>
 
 <details open>
-  <summary>support</summary>
-<p align="center">  
-  
-  | Platform   | Link | Address |
-  |------------|------|---------|
-  | Bitcoin    | [![BTC](https://img.shields.io/badge/Bitcoin-Donate-yellow?style=for-the-badge&logo=bitcoin)](bitcoin:bc1qtmrqtq4ag720tvux64ff3rjp632jy2d447p3nx) | [bc1qtmrqtq4ag720tvux64ff3rjp632jy2d447p3nx](bitcoin:bc1qtmrqtq4ag720tvux64ff3rjp632jy2d447p3nx) |
-  | Ethereum   | [![ETH](https://img.shields.io/badge/Ethereum-Donate-blue?style=for-the-badge&logo=ethereum)](ethereum:0xa1A78771422F602d9Ded0E8373d5A3D77E146877) | [0xa1A78771422F602d9Ded0E8373d5A3D77E146877](ethereum:0xa1A78771422F602d9Ded0E8373d5A3D77E146877) |
-  | Litecoin   | [![LTC](https://img.shields.io/badge/Litecoin-Donate-lightgrey?style=for-the-badge&logo=litecoin)](litecoin:LaoNB7KADaGGb5ik8RhEBhAFdhM9pu5se5) | [LaoNB7KADaGGb5ik8RhEBhAFdhM9pu5se5](litecoin:LaoNB7KADaGGb5ik8RhEBhAFdhM9pu5se5) |
-  | XRP        | [![XRP](https://img.shields.io/badge/XRP-Donate-23292F?style=for-the-badge&logo=xrp)](xrp:rpLLN1Gse5zFnVxwQkMvh6jvKKtPrAjvLV) | [rpLLN1Gse5zFnVxwQkMvh6jvKKtPrAjvLV](xrp:rpLLN1Gse5zFnVxwQkMvh6jvKKtPrAjvLV) |
-  | Patreon    | [![Patreon](https://img.shields.io/badge/Patreon-iiDk-orange?style=for-the-badge&logo=patreon)](https://www.patreon.com/iiDk) | [iiDk](https://www.patreon.com/iiDk) |
-  | CashApp    | [![CashApp](https://img.shields.io/badge/CashApp-$iiWasHere-green?style=for-the-badge&logo=cashapp)](https://cash.app/$iiWasHere) | [$iiWasHere](https://cash.app/$iiWasHere) |
-  
+  <summary>💖 support</summary>
+
+<p align="center">
+
+| Platform | Link |
+|----------|------|
+| Patreon  | [Support me](#) |
+| CashApp  | [$yourname](#) |
+
 </p>
 </details>
 
 ---
 
 <p align="center">
-  <img src="hyper.gif" height="100">
-  <img src="fennec.gif" height="100">
-  <img src="pat.gif" alt="mee" height="100">
-  <img src="doggy.gif" height="100">
-  <img src="sleepy.gif" alt="sleepy boy" height="100">
-  <img src="silly.gif" alt="silly" height="100">
-  <img src="dance.gif" height="100">
-  <img src="eat.gif" height="100">
-  <img src="hold.gif" height="100">
-  <img src="milk.gif" height="100">
-  <img src="otter.gif" height="100">
-  <img src="airbiscuits.gif" height="100">
-  <img src="uhh.gif" height="100">
-  <img src="vro.gif" height="100">
-  <img src="tonguecat.gif" height="100">
-  <img src="dryer.gif" height="100">
-  <img src="dink.gif" height="100">
-  <img src="Hotfrickendog.gif" height="100">
-  <img src="sillycat.gif" height="100">
-  <img src="caramelldansen-dance.gif" height="100">
-  <img src="NoRagebaitCat.gif" height="100">
-  <img src="FunneCar.gif" height="100">
-  <img src="cat.gif" height="100">
-  <img src="guncar.gif" height="100">
+  <img src="https://media.giphy.com/media/gif1.gif" height="100">
+  <img src="https://media.giphy.com/media/gif2.gif" height="100">
+  <img src="https://media.giphy.com/media/gif3.gif" height="100">
+  <img src="https://media.giphy.com/media/gif4.gif" height="100">
 </p>
 
-<p align="center">  
-<br><br><a href="https://github.com/iiDk-the-actual/iiDk-the-actual/pulls">make a pr and add more silly gifs!! i will accept literally everything</a>
+<p align="center">
+  <a href="#">make a pr and add more silly gifs!!</a>
 </p>
