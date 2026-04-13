@@ -24,7 +24,7 @@
 <p align="center">
   <img src="https://media.tenor.com/oqArYHLhqq0AAAAi/lamb-dance-cult-of-the-lamb.gif" width="20"> my fav game is cult of the lamb <img src="https://media.tenor.com/oqArYHLhqq0AAAAi/lamb-dance-cult-of-the-lamb.gif" width="20"><br><img src="https://media.tenor.com/v59lGhMtJJcAAAAj/uzi-murder-drones.gif" width="20">
   i like tadc, hh, hb, and murder drones <img src="https://media.tenor.com/P8OAcquQjigAAAAj/n-n-murder-drones.gif" width="20"><br>
-  <img src="https://media.tenor.com/HAU_nZjbw9gAAAAi/cat-dance.gif" width="20"> my favorite animal is cats and i am a furry creature<img src="https://media.tenor.com/-ko0-rT-MK8AAAAi/rig.gif" width="20"> <br> my favorite animal is cats and i am a furry creature
+  <img src="https://media.tenor.com/HAU_nZjbw9gAAAAi/cat-dance.gif" width="20"> my favorite animal is cats and i am a furry creature<img src="https://media.tenor.com/-ko0-rT-MK8AAAAi/rig.gif" width="20"> <br> <img src="https://media.tenor.com/1XajIryzfqUAAAAi/vox-hazbin-hotel.gif" width="20"> i like rap, rock, and hip-hop (people like juice wrld, travis scott, my chemical romance, etc.) <img src="https://media.tenor.com/jlm9dlF_2ZcAAAAj/cat-music.gif" width="20">
 </p>
 
 ---
