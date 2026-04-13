@@ -14,7 +14,7 @@
 <h2 align="center">languages i know or are familiar with :D</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c#,lua" />
+  <img src="https://skillicons.dev/icons?i=cs,lua,python"/>
 </p>
 
 ---
