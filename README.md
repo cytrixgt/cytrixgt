@@ -56,8 +56,6 @@
 ---
 
 <h2 align="center">random gifs i have loll</h2>
-
-<p align="left">
     <img src="https://c.tenor.com/lJLXce-m_7IAAAAd/tenor.gif" width="200">
     <img src="https://c.tenor.com/6TNGlpE5sKYAAAAd/tenor.gif" width="200">
     <img src="https://c.tenor.com/kJ-MBWlQObkAAAAd/tenor.gif" width="200">
