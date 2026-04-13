@@ -22,9 +22,9 @@
 <h2 align="center">🧠 about me</h2>
 
 <p align="center">
-  my fav game is cult of the lamb
-  i like tadc, hh, hb, and murder drones 
-  my favorite animal is cats and i am a furry creature
+  my fav game is cult of the lamb<br>
+  i like tadc, hh, hb, and murder drones<br> 
+  my favorite animal is cats and i am a furry creature<br>
 </p>
 
 ---
