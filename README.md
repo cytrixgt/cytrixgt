@@ -58,13 +58,13 @@
 <h2 align="center">random gifs i have loll</h2>
 
 <p align="center">
-    <img src="https://c.tenor.com/lJLXce-m_7IAAAAd/tenor.gif" width="200">
-    <img src="https://c.tenor.com/6TNGlpE5sKYAAAAd/tenor.gif" width="200">
-    <img src="https://c.tenor.com/kJ-MBWlQObkAAAAd/tenor.gif" width="200">
-    <img src="https://media.tenor.com/3er3V7Vwny0AAAAj/bubble-bubble-tadc.gif" width="200">
-    <img src="https://media.tenor.com/MgooNl9-ZaYAAAAj/pomni-plush.gif" width="200">
-    <img src="https://c.tenor.com/PDVHdZ0XYJoAAAAd/tenor.gif" width="200">
-    <img src="https://c.tenor.com/tNQjyw71kCAAAAAd/tenor.gif" width="200">
-    <img src="https://c.tenor.com/KXinqm_EEf0AAAAd/tenor.gif" width="200">
-    <img src="https://c.tenor.com/Lqank-5SLp0AAAAd/tenor.gif" width="200">
-    <img src="https://c.tenor.com/a1V-3ctKdQ0AAAAC/tenor.gif" width="200">
+    <img src="https://c.tenor.com/lJLXce-m_7IAAAAd/tenor.gif" height="100">
+    <img src="https://c.tenor.com/6TNGlpE5sKYAAAAd/tenor.gif" height="100">
+    <img src="https://c.tenor.com/kJ-MBWlQObkAAAAd/tenor.gif" height="100">
+    <img src="https://media.tenor.com/3er3V7Vwny0AAAAj/bubble-bubble-tadc.gif" height="100">
+    <img src="https://media.tenor.com/MgooNl9-ZaYAAAAj/pomni-plush.gif" height="100">
+    <img src="https://c.tenor.com/PDVHdZ0XYJoAAAAd/tenor.gif" height="100">
+    <img src="https://c.tenor.com/tNQjyw71kCAAAAAd/tenor.gif" height="100">
+    <img src="https://c.tenor.com/KXinqm_EEf0AAAAd/tenor.gif" height="100">
+    <img src="https://c.tenor.com/Lqank-5SLp0AAAAd/tenor.gif" height="100">
+    <img src="https://c.tenor.com/a1V-3ctKdQ0AAAAC/tenor.gif" height="100">
