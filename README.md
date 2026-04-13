@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/yourgifhere.gif" width="40%"><br>
-  hey there 👋
+  <> welcome to my epic awesome profile <>
 </h1>
 
 <p align="center">
@@ -8,8 +8,7 @@
   i'm [your age] and i code for fun (and maybe money 👀)<br><br>
 
   <!-- languages -->
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
