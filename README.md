@@ -54,3 +54,9 @@
 </p>
 
 ---
+
+<h2 align="center">random gifs i have loll</h2>
+
+<p align="left">
+    <img src="https://img.shields.io/badge/Roblox-check_profile-000000?style=for-the-badge&logo=roblox&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/Roblox-check_profile-000000?style=for-the-badge&logo=roblox&logoColor=white">
