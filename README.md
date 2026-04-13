@@ -29,8 +29,6 @@
 
 ---
 
----
-
 <h2 align="center">💸 support</h2>
 
 <p align="center">
