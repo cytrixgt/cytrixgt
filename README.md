@@ -43,7 +43,7 @@
 
   <p align="center">
   <a href="https://youtube.com/@realcytrix">
-    <img src="https://img.shields.io/badge/YouTube-watch_red-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    <img src="https://img.shields.io/badge/YouTube-watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 
   <p align="center">
